@@ -6,6 +6,7 @@
 
 void Create(TStack &s) {
     s.head_ptr = nullptr;
+    s.size = 0;
 }
 
 void Push(TStack &s, int value) {
