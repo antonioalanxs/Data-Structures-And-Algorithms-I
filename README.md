@@ -15,7 +15,6 @@ Some of the algorithms that will be covered:
 - Binary search
 - Quick sort
 - Bubble sort
-- Merge sort
 - Depth search (DFS)
 - Breadth search (BFS)
 - Dijkstra's algorithm
